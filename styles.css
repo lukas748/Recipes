@@ -1,0 +1,18 @@
+* {
+    background-color: aqua;
+}
+
+.header {
+    font-size: 36px;
+    font-weight: 1000;
+}
+
+.sub-header{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+li, ul, ol {
+    background-color: aquamarine;
+    font-size: 20px;
+}
